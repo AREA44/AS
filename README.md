@@ -1,5 +1,4 @@
-# Activation scripts
-Activation scripts for Windows
+# Activation Scripts
 
 ## Features
 
